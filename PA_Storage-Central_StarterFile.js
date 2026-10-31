@@ -4,7 +4,7 @@
     Purpose: Storage Central
 */
 //Creating Product Data
-const defaultProducts = [
+const product-grid = [
   { id: 1, 
     name: "Hand-Thrown Mug", 
     description: "Ceramic mug with a soft glaze.", 
