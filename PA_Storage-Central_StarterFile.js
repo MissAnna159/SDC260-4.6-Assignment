@@ -4,7 +4,7 @@
     Purpose: Storage Central
 */
 //Creating Product Data
-const product-grid = [
+const defaultProducts = [
   { id: 1, 
     name: "Hand-Thrown Mug", 
     description: "Ceramic mug with a soft glaze.", 
@@ -30,7 +30,7 @@ const product-grid = [
     name: "Macrame Handcrafted",
     description: "Handcrafted Macrame.", 
     price: 36, 
-    stock: 4, .
+    stock: 4, 
     image: "macrame.png", 
     alt: "macrame" },
   { id: 5, 
@@ -45,7 +45,7 @@ const product-grid = [
     description: "Handcrafted Coaster Set.", 
     price: 12, 
     stock: 10, 
-    image: "Coaster.png", 
+    image: "coaster.png", 
     alt: "Coaster set" }
 ];
 //Load Storage
