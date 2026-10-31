@@ -45,7 +45,7 @@ const defaultProducts = [
     description: "Handcrafted Coaster Set.", 
     price: 12, 
     stock: 10, 
-    image: "coaster.png", 
+    image: "coasters.png", 
     alt: "Coaster set" }
 ];
 //Load Storage
